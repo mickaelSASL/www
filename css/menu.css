@@ -12,17 +12,16 @@ margin-bottom: 50px;
 background-color: #98A593;
 }
 
-
+.boutonmenuprincipal:hover a{
+color: #F9F4D5;
+}
 .boutonmenuprincipal a {
 color: white;
 text-decoration: none;
 display: block;
 }
 
-.boutonmenuprincipal a:hover {
-color: #B74C61;
 
-}
 .boutonmenuprincipal a{
 	font-color: white;
 }
