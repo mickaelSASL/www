@@ -9,11 +9,11 @@ margin-bottom: 50px;
 }
 
 .boutonmenuprincipal:hover{
-background-color: #98A593;
+	background-color: #98A593;
 }
 
 .boutonmenuprincipal:hover a{
-color: #FA09C7D;
+	color: #A09C7D;
 }
 .boutonmenuprincipal a {
 color: white;
