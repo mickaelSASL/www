@@ -12,6 +12,18 @@ margin-bottom: 50px;
 background-color: #98A593;
 }
 
+
+.boutonmenuprincipal a {
+color: white;
+padding: 20px;
+text-decoration: none;
+display: block;
+}
+
+.boutonmenuprincipal a:hover {
+background-color: #B74C61;
+
+}
 .boutonmenuprincipal a{
 	font-color: white;
 }
@@ -52,14 +64,3 @@ transition: 0.5s max-height 0.3s;
 width: auto;
 }
 
-.dropdown-child a {
-color: white;
-padding: 20px;
-text-decoration: none;
-display: block;
-}
-
-.dropdown-child a:hover {
-background-color: #B74C61;
-
-}
