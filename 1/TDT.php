@@ -34,7 +34,7 @@
 		<h1 >Traitement des données en tables</h1>
     </div>
 
-	<!-- Génération des articles issus du JSON -->
+	<!-- -->
 
 	<div class="col-xs-12 col-md-3 section-container-spacer" style="border:solid">
 	<img class="img-responsive" alt="" src="/images/1/tables/tables.png">
@@ -44,6 +44,19 @@
 		<div class="boutonmenuprincipal"><a href="menu1" target="_blank">Menu1</a></div>				
 		<div class="boutonmenuprincipal"><a href="menu2" target="_blank">Menu2</a></div>
 	</div>
+		
+	</div>	
+		
+	<div class="col-xs-12 col-md-3 section-container-spacer" style="border:solid">
+	<img class="img-responsive" alt="" src="/images/1/tables/tables.png">
+	<h2 style="height: 30px;">TDT1</h2>
+	<p style="height: 80px;">Indexation des tables de données</p>
+	<div class="dropdown" >
+		<div class="boutonmenuprincipal"><a href="menu1" target="_blank">Menu1</a></div>				
+		<div class="boutonmenuprincipal"><a href="menu2" target="_blank">Menu2</a></div>
+	</div>
+		
+	</div>	
 		
 <!-- Pied de page avec les légendes -->
 <div class="legende_icone">		
