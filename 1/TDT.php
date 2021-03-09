@@ -41,7 +41,7 @@
 	<h2 style="height: 30px;">TDT1</h2>
 	<p style="height: 80px;">Indexation des tables de données</p>
 	<div class="dropdown" >
-		<div class="boutonmenuprincipal"><a href="menu1" target="_blank">Menu1</a></div>				
+		<div class="boutonmenuprincipal"><a href="mickaelSASL.github.io/1/TDT/1/indexation_donnees.html" target="_blank">Cours</a></div>				
 		<div class="boutonmenuprincipal"><a href="menu2" target="_blank">Menu2</a></div>
 	</div>
 		
@@ -49,8 +49,8 @@
 		
 	<div class="col-xs-12 col-md-3 section-container-spacer" style="border:solid">
 	<img class="img-responsive" alt="" src="/images/1/tables/tables.png">
-	<h2 style="height: 30px;">TDT1</h2>
-	<p style="height: 80px;">Indexation des tables de données</p>
+	<h2 style="height: 30px;">TDT2</h2>
+	<p style="height: 80px;">Fusion des tables de données</p>
 	<div class="dropdown" >
 		<div class="boutonmenuprincipal"><a href="menu1" target="_blank">Menu1</a></div>				
 		<div class="boutonmenuprincipal"><a href="menu2" target="_blank">Menu2</a></div>
