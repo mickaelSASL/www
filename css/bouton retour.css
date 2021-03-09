@@ -1,0 +1,37 @@
+.bouton {
+  width: 100px;
+  height: 30px;
+  cursor: pointer;
+  background: #959B28;
+  border: 1px solid #FCFED9;
+  outline: none;
+  transition: 1s ease-in-out;
+  border-radius:15px;
+}
+
+svg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  fill: none;
+  stroke: #fff;
+  stroke-dasharray: 100 480;
+  stroke-dashoffset: 150;
+  transition: 1s ease-in-out;
+}
+
+.bouton:hover {
+  transition: 1s ease-in-out;
+  background: #BDC350;
+}
+
+.bouton:hover svg {
+  stroke-dashoffset: -480;
+}
+
+.bouton span {
+  margin-left:0;
+  color: #FCFED9;
+  font-size: 1.5rem;
+  font-weight: 200;
+}
