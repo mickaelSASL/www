@@ -16,15 +16,8 @@
       <div class="site-header hidden-xs">
           <a class="site-brand" href="/" title="">
 
-<<<<<<< HEAD
-<<<<<<< HEAD
             <img class="img-responsive site-logo" alt="" src="/images/logo_site.png">
-=======
-            <img class="img-responsive site-logo" alt="" src="images/logo_site.png">
->>>>>>> 52b538c (update)
-=======
-            <img class="img-responsive site-logo" alt="" src="/images/logo_site.png">
->>>>>>> 9a8b579 (update)
+
             Numérique et Sciences Informatiques 
           </a>
       </div>
