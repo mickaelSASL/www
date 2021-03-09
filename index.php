@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 52b538c (update)
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -82,9 +77,3 @@
 
 </body>
 </html>
-<<<<<<< HEAD
-=======
-<meta http-equiv="refresh" content="0;URL=index2.php">
->>>>>>> 1399ef5 (Add files via upload)
-=======
->>>>>>> 52b538c (update)
