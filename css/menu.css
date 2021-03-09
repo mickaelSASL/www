@@ -14,13 +14,15 @@ max-height: 200em;
 }
 
 .dropdown:hover .boutonmenuprincipal, .boutonmenuprincipal:hover{
-background-color: #ff312d;
-border-bottom-left-radius:0px;
+background-color: #98A593;
 }
 
+a.boutonmenuprincipal {
+	color: white;
+}
 .boutonmenuprincipal {
 	list-style: none;
-	background-color: #ff6360;
+	background-color: #71886A;
 	background-image:none;
 	width: 150px;
 	border-radius:50px;
