@@ -23,7 +23,7 @@
 </head>
 <body>
 <!-- Add your content of header -->
-
+	<?php include('../menu-side.php'); ?>
 <!-- Add your site or app content here -->
 
 <main class="" id="main-collapse">
