@@ -13,7 +13,7 @@ display: block;
 max-height: 200em;
 }
 
-.dropdown:hover .boutonmenuprincipal, .boutonmenuprincipal:hover{
+.boutonmenuprincipal:hover{
 background-color: #98A593;
 }
 
