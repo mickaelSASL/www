@@ -8,16 +8,11 @@ width-min: 150px;
 margin-bottom: 50px;
 }
 
-.dropdown:hover .dropdown-child {
-display: block;
-max-height: 200em;
-}
-
 .boutonmenuprincipal:hover{
 background-color: #98A593;
 }
 
-a.boutonmenuprincipal {
+.boutonmenuprincipal a{
 	font-color: white;
 }
 .boutonmenuprincipal {
